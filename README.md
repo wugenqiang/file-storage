@@ -8,3 +8,15 @@
 
 * [pdf-book](https://wugenqiang.github.io/NoteBook/#/ibooks/pdf-book)
 
+## 使用操作
+
+> GitHub Pages 访问（国内加载速度慢）
+
+[https://wugenqiang.github.io/File-Storage/pdf.js/web/viewer.html?file=../../](https://wugenqiang.github.io/File-Storage/pdf.js/web/viewer.html?file=../../) + 文件路径
+
+> Gitee Pages 访问（国内加载速度较快）推荐使用
+
+[http://wugenqiang.gitee.io/file-storage/pdf.js/web/viewer.html?file=../../](http://wugenqiang.gitee.io/file-storage/pdf.js/web/viewer.html?file=../../) + 文件路径
+
+比如《深度学习基础教程》在深度学习文件夹下，所以文件路径就是 `深度学习/深度学习基础教程.pdf` 即可
+
